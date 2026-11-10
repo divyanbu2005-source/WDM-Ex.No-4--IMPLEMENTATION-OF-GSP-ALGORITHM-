@@ -1,6 +1,5 @@
 # WDM-Ex.No-4--IMPLEMENTATION-OF-GSP-ALGORITHM-
 ## Name: Divya A
-## Reg NO: 2305002007
 ## Date:
 **Aim:** 
  To create a python program for implementing GSP Algorithm. 
